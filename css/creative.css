@@ -9564,7 +9564,11 @@ html {
 hr.divider {
   max-width: 3.25rem;
   border-width: 0.2rem;
-  border-color: #ff0; /* #f4623a */
+  border-color: #ec6b18; /* #f4623a */
+}
+
+#divisor1 {
+  border-color: #ff0;
 }
 
 hr.light {
